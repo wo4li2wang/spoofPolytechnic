@@ -6,10 +6,10 @@ as2.0 + swfkit 开发的,基本游戏框架还是做出来了，也支持地图�
 
 当时不懂编程习惯，也没什么编程模式，代码确实写的很不规范，有的变量也是乱取名字的，但还好关键地方是加了注释的……
 
-其实就是学着DNF的样子恶搞的游戏，闲得无聊嘛……
-下载地址：
-腾讯微云：http://url.cn/RtPJrs
-百度云：http://pan.baidu.com/s/1d9j7S
+其实就是学着DNF的样子恶搞的游戏，黑了下我们学校，闲得无聊嘛……<br>
+下载地址：<br>
+腾讯微云：http://url.cn/RtPJrs<br>
+百度云：http://pan.baidu.com/s/1d9j7S<br>
 360云：http://yunpan.cn/Q4rXSdP7rUiDg
 
 
