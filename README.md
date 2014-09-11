@@ -8,9 +8,11 @@ as2.0 + swfkit 开发的,基本游戏框架还是做出来了，也支持地图�
 
 其实就是学着DNF的样子恶搞的游戏，黑了下我们学校，闲得无聊嘛……<br>
 下载地址：<br>
-腾讯微云：http://url.cn/RtPJrs<br>
-百度云：http://pan.baidu.com/s/1d9j7S<br>
-360云：http://yunpan.cn/Q4rXSdP7rUiDg
+百度网盘：http://pan.baidu.com/s/1pJ9bM3p
+酷盘：http://kanboxshare.com/link/sgtRxOtZHC98oUMRAM2f0z1V8J5HWkuDYUgyKKkguGmpvErRcfmCRidGK7oygXYxtjMbI
+微云：http://url.cn/JJfIL8
+360网盘：http://yunpan.cn/Q7Srs4ZqwXzXz （提取码：dd85） 
+华为网盘： http://dl.vmall.com/c0al1aoyt4
 
 
 ## src目录 ##
